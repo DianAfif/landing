@@ -22,7 +22,7 @@
 				<strong class="text-xl uppercase">Dian Afif</strong>
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
-				<a
+				<!-- <a
 					class="btn btn-sm variant-ghost-surface"
 					href="https://discord.gg/EXqV7W8MtY"
 					target="_blank"
@@ -32,7 +32,7 @@
 				</a>
 				<a
 					class="btn btn-sm variant-ghost-surface"
-					href="https://twitter.com/SkeletonUI"
+					href="https://twitter.com/dian77afif"
 					target="_blank"
 					rel="noreferrer"
 				>
@@ -45,7 +45,7 @@
 					rel="noreferrer"
 				>
 					GitHub
-				</a>
+				</a> -->
 			</svelte:fragment>
 		</AppBar>
 
